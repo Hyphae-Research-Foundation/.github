@@ -22,4 +22,4 @@ unauthorized AI provider. Do not accuse a contributor of AI use based on
 writing style, fluency, disability, language background, or intuition.
 
 Project repositories may define stricter rules. The complete current policy is
-published at https://research.hyphae.dev/participate/.
+published at https://hyphaeresearch.org/participate/.

@@ -8,9 +8,10 @@ compatibility, evidence, maintainability, rights, and documentation, and
 distinguish blocking requirements from non-blocking preferences.
 
 Normal changes require one approving human maintainer other than the author.
-Critical and materially AI-assisted changes require two approving human
-maintainers, including an accountable area owner when named, plus a 72-hour
-public review window after the latest substantive commit.
+Critical changes require two approving human maintainers, including an
+accountable area owner when named, plus a 72-hour public review window after
+the latest substantive commit. Material AI use is disclosed and reviewed under
+the target repository's risk policy; tool use alone does not determine risk.
 
 Automated approval does not count. Authors cannot approve or merge their own
 work. CI and DCO must pass on the exact selected commit, conversations must be
