@@ -22,8 +22,8 @@ independent verification, and the applicable critical review.
 The full policy and Spanish onboarding are maintained in the institutional
 repository and linked from the organization website:
 
-- https://research.hyphae.dev/participate/
-- https://research.hyphae.dev/governance/
+- https://hyphaeresearch.org/participate/
+- https://hyphaeresearch.org/governance/
 
 Project-specific policies may be stricter. Read the target repository before
 proposing work.

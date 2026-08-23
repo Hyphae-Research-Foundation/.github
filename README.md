@@ -10,7 +10,7 @@ provide stricter project-specific versions.
 ## Publication
 
 This directory is intended to become the root of a public repository named
-`.github` under the Celiums Research Foundation organization.
+`.github` under the Hyphae Research Foundation organization.
 
 Before publication:
 

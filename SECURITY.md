@@ -4,7 +4,7 @@ Do not disclose suspected vulnerabilities in public issues, Discussions, pull
 requests, or chat.
 
 - For Hyphae, use GitHub private vulnerability reporting at
-  https://github.com/celiumsai/hyphae/security.
+  https://github.com/Hyphae-Research-Foundation/hyphae/security.
 - Hyphae Inference is in private development and has no supported public
   release.
 - For the organization profile, use private vulnerability reporting on this

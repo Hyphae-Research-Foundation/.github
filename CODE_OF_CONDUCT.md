@@ -15,4 +15,4 @@ maintainers must recuse.
 
 The initiative is still appointing independent confidential conduct
 recipients. Do not post sensitive reports publicly. The incomplete reporting
-structure is documented at https://research.hyphae.dev/participate/.
+structure is documented at https://hyphaeresearch.org/participate/.

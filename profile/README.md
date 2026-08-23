@@ -24,7 +24,7 @@ documented asset transfers are complete. It does not own the future foundation.
 
 ## Projects
 
-### [Hyphae](https://github.com/celiumsai/hyphae)
+### [Hyphae](https://github.com/Hyphae-Research-Foundation/hyphae)
 
 A local-first Rust data engine that unifies SQL, native structures,
 lexical/vector search, WAL, MVCC, recovery, and verifiable proofs in one
@@ -69,12 +69,12 @@ and review requirements.
 
 ## Public record
 
-- [Website](https://research.hyphae.dev)
-- [Manifesto](https://research.hyphae.dev/manifesto/)
-- [Research ledger](https://research.hyphae.dev/research/)
-- [Governance](https://research.hyphae.dev/governance/)
-- [Participation](https://research.hyphae.dev/participate/)
-- [Legal status](https://research.hyphae.dev/legal/)
+- [Website](https://hyphaeresearch.org)
+- [Manifesto](https://hyphaeresearch.org/manifesto/)
+- [Research ledger](https://hyphaeresearch.org/research/)
+- [Governance](https://hyphaeresearch.org/governance/)
+- [Participation](https://hyphaeresearch.org/participate/)
+- [Legal status](https://hyphaeresearch.org/legal/)
 - [Security](../SECURITY.md)
 
 ## Current status
