@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Hyphae Research Foundation</title>
+  <desc id="desc">Four mycelial branches grow from the terminals of an H toward a shared central node.</desc>
+  <rect width="512" height="512" rx="112" fill="#102325"/>
+  <g transform="translate(64 64) scale(6)">
+    <g fill="none" stroke="#F1EBDD" stroke-width="3.15" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M14 10v17c0 3.3 2.7 6 6 6h24c3.3 0 6-2.7 6-6V10"/>
+      <path d="M14 54V39c0-3.3 2.7-6 6-6h24c3.3 0 6 2.7 6 6v15"/>
+    </g>
+    <g fill="none" stroke="#C86F4A" stroke-width="2.45" stroke-linecap="round">
+      <path d="M32 33c-2.5-8.8-7.8-13.2-16-13.2M32 33c2.5-8.8 7.8-13.2 16-13.2M32 33c-2.5 8.8-7.8 13.2-16 13.2M32 33c2.5 8.8 7.8 13.2 16 13.2"/>
+    </g>
+    <g fill="#F1EBDD"><circle cx="14" cy="10" r="2.5"/><circle cx="50" cy="10" r="2.5"/><circle cx="14" cy="54" r="2.5"/><circle cx="50" cy="54" r="2.5"/><circle cx="16" cy="19.8" r="2"/><circle cx="48" cy="19.8" r="2"/><circle cx="16" cy="46.2" r="2"/><circle cx="48" cy="46.2" r="2"/></g>
+    <circle cx="32" cy="33" r="4.4" fill="#C86F4A"/><circle cx="32" cy="33" r="1.35" fill="#102325"/>
+  </g>
+</svg>

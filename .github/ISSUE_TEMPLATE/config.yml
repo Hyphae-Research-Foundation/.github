@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and early ideas
+    url: https://github.com/orgs/Hyphae-Research-Foundation/discussions
+    about: Use organization Discussions for Q&A and early exploration.
+  - name: Hyphae security vulnerability
+    url: https://github.com/Hyphae-Research-Foundation/hyphae/security
+    about: Never report suspected vulnerabilities in a public issue.
+  - name: Contribution process
+    url: https://research.hyphae.dev/participate/
+    about: Read the issue-first process before proposing work.

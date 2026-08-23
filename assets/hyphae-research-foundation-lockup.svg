@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 140" role="img" aria-labelledby="title">
+  <title id="title">Hyphae Research Foundation</title>
+  <rect width="760" height="140" rx="16" fill="#102325"/>
+  <g transform="translate(26 26) scale(1.35)">
+    <g fill="none" stroke="#F1EBDD" stroke-width="3.15" stroke-linecap="round" stroke-linejoin="round"><path d="M14 10v17c0 3.3 2.7 6 6 6h24c3.3 0 6-2.7 6-6V10"/><path d="M14 54V39c0-3.3 2.7-6 6-6h24c3.3 0 6 2.7 6 6v15"/></g>
+    <g fill="none" stroke="#C86F4A" stroke-width="2.45" stroke-linecap="round"><path d="M32 33c-2.5-8.8-7.8-13.2-16-13.2M32 33c2.5-8.8 7.8-13.2 16-13.2M32 33c-2.5 8.8-7.8 13.2-16 13.2M32 33c2.5 8.8 7.8 13.2 16 13.2"/></g>
+    <g fill="#F1EBDD"><circle cx="14" cy="10" r="2.5"/><circle cx="50" cy="10" r="2.5"/><circle cx="14" cy="54" r="2.5"/><circle cx="50" cy="54" r="2.5"/></g><circle cx="32" cy="33" r="4.4" fill="#C86F4A"/>
+  </g>
+  <text x="140" y="72" fill="#F1EBDD" font-family="Georgia, Times New Roman, serif" font-size="54" letter-spacing="-2">Hyphae</text>
+  <text x="142" y="105" fill="#8FCBC6" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="4">RESEARCH FOUNDATION</text>
+  <text x="500" y="63" fill="#F1EBDD" fill-opacity=".55" font-family="monospace" font-size="10" letter-spacing="1.2">SYSTEMS THAT REMEMBER.</text>
+  <text x="500" y="84" fill="#F1EBDD" fill-opacity=".55" font-family="monospace" font-size="10" letter-spacing="1.2">RECORDS THAT HOLD.</text>
+</svg>

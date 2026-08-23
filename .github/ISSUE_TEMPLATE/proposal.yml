@@ -1,0 +1,68 @@
+name: Change proposal
+description: Request a maintainer decision before implementation.
+title: "proposal: "
+labels:
+  - kind:proposal
+  - decision:needs-triage
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem and affected users
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Smallest complete proposed change
+    validations:
+      required: true
+  - type: textarea
+    id: non_goals
+    attributes:
+      label: Explicit non-goals
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives and trade-offs
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Tests, evidence, and acceptance criteria
+    validations:
+      required: true
+  - type: dropdown
+    id: risk
+    attributes:
+      label: Proposed risk
+      options:
+        - risk:normal
+        - risk:critical
+    validations:
+      required: true
+  - type: dropdown
+    id: ai
+    attributes:
+      label: Planned AI assistance
+      options:
+        - No material AI assistance planned
+        - AI assistance planned and described below
+    validations:
+      required: true
+  - type: textarea
+    id: ai_details
+    attributes:
+      label: AI scope, data handling, and independent verification
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Confirmations
+      options:
+        - label: I searched existing work and linked relevant conversations.
+          required: true
+        - label: I will not open a pull request until a maintainer applies `decision:approved`.
+          required: true

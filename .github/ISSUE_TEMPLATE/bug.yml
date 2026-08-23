@@ -1,0 +1,63 @@
+name: Bug report
+description: Report reproducible incorrect behavior. Approval is required before a pull request.
+title: "bug: "
+labels:
+  - kind:bug
+  - decision:needs-triage
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Version or commit
+      placeholder: Release, package, or full commit SHA
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Operating system, architecture, toolchain, hardware, configuration, and dependencies.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Minimal reproduction
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior and non-sensitive evidence
+    validations:
+      required: true
+  - type: dropdown
+    id: ai
+    attributes:
+      label: AI assistance in this report
+      options:
+        - No material AI assistance
+        - AI assistance used and described below
+    validations:
+      required: true
+  - type: textarea
+    id: ai_details
+    attributes:
+      label: AI details and human verification
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Confirmations
+      options:
+        - label: I searched existing Discussions, issues, and pull requests.
+          required: true
+        - label: This report contains no secret or privately reportable vulnerability.
+          required: true
+        - label: I will wait for `decision:approved` before opening a pull request.
+          required: true
