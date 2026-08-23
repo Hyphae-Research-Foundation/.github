@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hyphae-Research-Foundation/.github/main/assets/hyphae-research-foundation-lockup.svg" alt="Hyphae Research Foundation" width="560">
-</p>
+
+# Hyphae Research Foundation
 
 <p align="center"><strong>Systems that remember. Records that hold.</strong></p>
 
@@ -19,8 +18,9 @@ trusted.
 
 The foundation is currently an **open-source initiative in formation**. It is
 not yet a separate legal or tax-exempt entity. Celiums Solutions LLC serves as
-incorporator, interim custodian, funder, and operator until incorporation and
-documented asset transfers are complete. It does not own the future foundation.
+organizer, interim custodian, funder, and operator until incorporation and
+documented asset transfers are complete, and as incorporator only if formation
+filings name it. It does not own the future foundation.
 
 ## Projects
 
@@ -59,9 +59,9 @@ issue. Early ideas belong in Discussions. Every implementation requires an
 issue carrying `decision:approved`, a bounded scope, acceptance criteria, risk
 classification, and a committed reviewer.
 
-AI-assisted contributions are welcome. Material AI use must be disclosed and
-is reviewed as critical work. The human contributor remains responsible for
-every line, claim, source, test, and artifact.
+AI-assisted contributions are welcome. Material AI use must be disclosed. The
+human contributor remains responsible for every line, claim, source, test, and
+artifact; project-specific review rules determine the required gate.
 
 Read the organization-wide [contribution policy](../CONTRIBUTING.md) before
 proposing work. Project repositories may add stricter technical, AI, security,
@@ -82,7 +82,7 @@ and review requirements.
 | Area | State |
 |---|---|
 | Legal entity | In formation; not incorporated |
-| Interim relationship | Celiums Solutions LLC: incorporator, custodian, funder, and operator |
+| Interim relationship | Celiums Solutions LLC: organizer, custodian, funder, and operator; incorporator only if filed |
 | Public software | Hyphae |
 | Private development | Hyphae Inference |
 | Software license | Apache-2.0 unless a repository or release states otherwise |

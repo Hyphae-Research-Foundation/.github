@@ -11,9 +11,9 @@ a pull request.
 
 External contributors may have at most two assigned implementation issues and
 two open pull requests per repository, including drafts. Normal changes require
-one independent human maintainer. Critical and materially AI-assisted changes
-require two and remain open for at least 72 hours after the latest substantive
-commit.
+one independent human maintainer. Critical changes require two and remain open
+for at least 72 hours after the latest substantive commit. Material AI use is
+disclosed and reviewed under the target repository's risk policy.
 
 Every commit requires a human DCO 1.1 sign-off. Contributors retain their
 copyright. AI assistance is welcome with disclosure, complete human ownership,
