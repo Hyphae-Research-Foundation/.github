@@ -30,11 +30,11 @@ A local-first Rust data engine that unifies SQL, native structures,
 lexical/vector search, WAL, MVCC, recovery, and verifiable proofs in one
 binary. Public under Apache-2.0.
 
-### Hyphae Inference
+### [Hyphae Transformer](https://github.com/Hyphae-Research-Foundation/hyphae-transformer)
 
-A pure C11 MoE inference engine with a memory. Hyphae records routing history
-so expert placement can respond to the workload rather than starting cold.
-Private development; not yet available or ready for use.
+A PyTorch framework for identity-initialized residual learning research, with
+typed hypotheses, staged experiments, explicit budgets, immutable manifests,
+and reproducible reports. Public under MIT.
 
 ## How we work
 
@@ -83,9 +83,8 @@ and review requirements.
 |---|---|
 | Legal entity | In formation; not incorporated |
 | Interim relationship | Celiums Solutions LLC: organizer, custodian, funder, and operator; incorporator only if filed |
-| Public software | Hyphae |
-| Private development | Hyphae Inference |
-| Software license | Apache-2.0 unless a repository or release states otherwise |
+| Public software | Hyphae; Hyphae Transformer |
+| Software licenses | Apache-2.0 for Hyphae; MIT for Hyphae Transformer |
 | Narrative documentation | CC-BY-SA-4.0 unless otherwise stated |
 | Contribution mechanism | DCO 1.1; no copyright assignment |
 | Donations | Not accepted by the LLC; fiscal sponsorship required during transition |

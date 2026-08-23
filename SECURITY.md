@@ -5,8 +5,8 @@ requests, or chat.
 
 - For Hyphae, use GitHub private vulnerability reporting at
   https://github.com/Hyphae-Research-Foundation/hyphae/security.
-- Hyphae Inference is in private development and has no supported public
-  release.
+- For Hyphae Transformer, follow its current security guidance at
+  https://github.com/Hyphae-Research-Foundation/hyphae-transformer/security.
 - For the organization profile, use private vulnerability reporting on this
   repository when enabled.
 
