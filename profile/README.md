@@ -36,6 +36,13 @@ A PyTorch framework for identity-initialized residual learning research, with
 typed hypotheses, staged experiments, explicit budgets, immutable manifests,
 and reproducible reports. Public under MIT.
 
+### [Hyphae BitNet](https://github.com/Hyphae-Research-Foundation/hyphae-bitnet)
+
+A correctness-first CPU inference runtime for supported ternary networks, with
+exact integer accumulation, model-family gates, bounded RAM compute layouts,
+and native CLI, C ABI, and HTTP surfaces. Public under Apache-2.0 with vendored
+and third-party portions retaining their identified licenses.
+
 ## How we work
 
 - **Local first:** useful without a required cloud or external authority.
@@ -83,8 +90,8 @@ and review requirements.
 |---|---|
 | Legal entity | In formation; not incorporated |
 | Interim relationship | Celiums Solutions LLC: organizer, custodian, funder, and operator; incorporator only if filed |
-| Public software | Hyphae; Hyphae Transformer |
-| Software licenses | Apache-2.0 for Hyphae; MIT for Hyphae Transformer |
+| Public software | Hyphae; Hyphae Transformer; Hyphae BitNet |
+| Software licenses | Apache-2.0 for Hyphae; MIT for Hyphae Transformer; Apache-2.0 plus retained third-party terms for Hyphae BitNet |
 | Narrative documentation | CC-BY-SA-4.0 unless otherwise stated |
 | Contribution mechanism | DCO 1.1; no copyright assignment |
 | Donations | Not accepted by the LLC; fiscal sponsorship required during transition |

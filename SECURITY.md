@@ -7,6 +7,8 @@ requests, or chat.
   https://github.com/Hyphae-Research-Foundation/hyphae/security.
 - For Hyphae Transformer, follow its current security guidance at
   https://github.com/Hyphae-Research-Foundation/hyphae-transformer/security.
+- For Hyphae BitNet, follow its security policy at
+  https://github.com/Hyphae-Research-Foundation/hyphae-bitnet/blob/main/SECURITY.md.
 - For the organization profile, use private vulnerability reporting on this
   repository when enabled.
 
